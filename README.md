@@ -20,11 +20,11 @@ interested developers a sense of your cadence and upcoming enhancements.
 
 Chat Module
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ashishpro/ibm_hack)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ShivamJha/ibm_hack_chat)
 
 
 Video Module
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ashishpro/ibm_hack_videoModule.git)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ShivamJha/ibm_hack)
 
 
