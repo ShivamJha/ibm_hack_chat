@@ -1,3 +1,5 @@
+Project is consit of 2 modules one is an IRC system and other is Video Hangout
+
 This README.md file is displayed on your project page. You should edit this 
 file to describe your project, including instructions for building and 
 running the project, pointers to the license under which you are making the 
@@ -16,4 +18,13 @@ eye-catching graphic.
 Finally, consider defining some sprints and work items in Track & Plan to give 
 interested developers a sense of your cadence and upcoming enhancements.
 
+Chat Module
+
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ashishpro/ibm_hack)
+
+
+Video Module
+
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ashishpro/ibm_hack_videoModule.git)
+
+
